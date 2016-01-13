@@ -1,0 +1,28 @@
+name: Visions from Asheville
+favicon: null
+layout_spectrum: 0.7975184065289795
+typography_spectrum: 0.05186117975972593
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6658223015256226
+  lightness: 0.4932594117708504
+  saturation: 0.44550226419232786
+  rhythmicContrast: 0.6787399046588689
+purpose: []
