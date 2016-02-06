@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Nancy Williams: Ever try to collect dog tinkle? Not easy'
-datePublished: '2016-02-06T22:46:21.203Z'
-dateModified: '2016-02-06T22:46:18.661Z'
+datePublished: '2016-02-06T22:47:57.289Z'
+dateModified: '2016-02-06T22:47:53.364Z'
 author: []
 title: ''
 sourcePath: _posts/2016-02-06-nancy-williams-ever-try-to-collect-dog-tinkle-not-easy.md
