@@ -1,17 +1,23 @@
 ---
-description: 'Nancy Williams: Ever try to collect dog tinkle? Not easy'
-author: []
-datePublished: '2016-02-06T22:38:27.671Z'
-publisher:
-  domain: ''
-  name: ''
-dateModified: '2016-02-06T22:38:00.939Z'
-title: ''
-sourcePath: _posts/2016-02-06-nancy-williams-ever-try-to-collect-dog-tinkle-not-easy.md
-published: true
 inFeed: true
 hasPage: true
 inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Nancy Williams: Ever try to collect dog tinkle? Not easy'
+datePublished: '2016-02-06T22:46:21.203Z'
+dateModified: '2016-02-06T22:46:18.661Z'
+author: []
+title: ''
+sourcePath: _posts/2016-02-06-nancy-williams-ever-try-to-collect-dog-tinkle-not-easy.md
+published: true
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 url: nancy-williams-ever-try-to-collect-dog-tinkle-not-easy/index.html
 _context: 'http://schema.org'
 _type: Article
