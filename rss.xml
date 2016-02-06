@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Visions from Asheville sponsored by Asheville Visions Photography]]></title>
-        <description><![CDATA[Visions from Asheville sponsored by Asheville Visions Photography]]></description>
+        <title><![CDATA[Sponsored by Asheville Visions Photography]]></title>
+        <description><![CDATA[Sponsored by Asheville Visions Photography]]></description>
         <link>https://thegrid.ai/visions-from-asheville/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 15:00:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 22:21:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/visions-from-asheville/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome to Visions from Asheville]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Fri, 05 Feb 2016 21:17:41 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stopping by the Woods on a Snowy Evening]]></title>
+            <description><![CDATA[<article><h1>Stopping by the Woods on a Snowy Evening</h1><p>by the Woods on a Snowy Evening</p></article>]]></description>
+            <link>https://thegrid.ai/visions-from-asheville/stopping-by-the-woods-on-a-snowy-evening/index.html</link>
+            <guid isPermaLink="false">985312a2-17ff-4c59-aeab-fa9489960d98</guid>
+            <pubDate>Sat, 06 Feb 2016 22:21:11 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Winter bright spot: Mardi Gras brings levity to Asheville]]></title>
-            <description><![CDATA[<article><h1>Winter bright spot: Mardi Gras brings levity to Asheville</h1><p>Asheville is the town that promises something different, and Mardi Gras is the holiday that promises something different. So even though Asheville is nearly 700 miles from New Orleans, the American epicenter of the holiday, the festivities are a good fit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbc01fe5d4cc10c12891c3ed78df0b97ce79f34b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Winter bright spot: Mardi Gras brings levity to Asheville</h1><p>Asheville is the town that promises something different, and Mardi Gras is the holiday that promises something different. So even though Asheville is nearly 700 miles from New Orleans, the American epicenter of the holiday, the festivities are a good fit.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b62a2792391c69246e8e249bb87334f899da6706.jpg"></article>]]></description>
             <link>http://www.citizen-times.com/story/entertainment/2016/02/04/winter-bright-spot-mardi-gras-brings-levity-asheville/79631744/</link>
             <guid isPermaLink="false">c941afa0-26b0-4bac-9cc4-0c5c586cbf02</guid>
             <pubDate>Sat, 06 Feb 2016 15:00:04 GMT</pubDate>
