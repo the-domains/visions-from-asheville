@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.citizen-times.com'
-  name: Citizen Times
-  favicon: 'http://www.gannett-cdn.com/sites/citizen-times/images/favicon.png'
-  domain: www.citizen-times.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.citizen-times.com/story/life/2016/01/30/nancy-williams-ever-try-collect-dog-tinkle-easy/79578348/'
+inLanguage: en
+starred: false
 keywords:
   - urine
   - tray
@@ -18,17 +17,20 @@ keywords:
   - pottying
   - yay
 description: "People I hang around with generally avoid crude or unseemly topics, but if more folks discussed a certain matter more openly, I wouldn't have been so clueless when I needed to know a few things. As a society we need to talk more about puppy tinkle samples."
-inLanguage: en
+datePublished: '2016-02-06T23:00:54.867Z'
+dateModified: '2016-02-06T23:00:44.479Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.citizen-times.com/story/life/2016/01/30/nancy-williams-ever-try-collect-dog-tinkle-easy/79578348/'
 title: 'Nancy Williams: Ever try to collect dog tinkle? Not easy'
-datePublished: '2016-02-06T22:59:40.782Z'
-dateModified: '2016-02-06T22:59:12.787Z'
 sourcePath: _posts/2016-02-06-nancy-williams-ever-try-to-collect-dog-tinkle-not-easy.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Citizen Times
+  domain: www.citizen-times.com
+  url: 'http://www.citizen-times.com'
+  favicon: 'http://www.gannett-cdn.com/sites/citizen-times/images/favicon.png'
 _context: 'http://schema.org'
 _type: MediaObject
 
