@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-04T16:11:11.082Z'
-dateModified: '2016-03-04T16:09:27.314Z'
+datePublished: '2016-03-04T16:11:25.615Z'
+dateModified: '2016-03-04T16:11:19.584Z'
 title: Welcome to Visions from Asheville
 author: []
 sourcePath: _posts/2016-03-04-welcome-to-visions-from-asheville.md
