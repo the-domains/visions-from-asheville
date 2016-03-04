@@ -13,7 +13,7 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3125
+  saturation: 0.5252951
   brandStrength: 0
   lightness: 0.8125
   brandColors:
