@@ -17,8 +17,8 @@ keywords:
   - pottying
   - yay
 description: "People I hang around with generally avoid crude or unseemly topics, but if more folks discussed a certain matter more openly, I wouldn't have been so clueless when I needed to know a few things. As a society we need to talk more about puppy tinkle samples."
-datePublished: '2016-02-06T23:00:54.867Z'
-dateModified: '2016-02-06T23:00:44.479Z'
+datePublished: '2016-03-04T16:24:51.835Z'
+dateModified: '2016-03-04T16:24:36.593Z'
 author: []
 related: []
 app_links: []
