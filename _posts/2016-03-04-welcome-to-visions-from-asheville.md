@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-04T13:59:34.284Z'
-dateModified: '2016-03-04T13:58:35.142Z'
+datePublished: '2016-03-04T14:00:22.873Z'
+dateModified: '2016-03-04T13:59:45.837Z'
 title: Welcome to Visions from Asheville
 author: []
 authors: []
