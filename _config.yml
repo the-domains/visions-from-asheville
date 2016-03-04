@@ -1,29 +1,41 @@
-name: Visions from Asheville
-favicon: null
-layout_spectrum: 0.48849
-typography_spectrum: 0.06094
 title: Visions from Asheville
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.3125
+  brandStrength: 0.450253
+  lightness: 0.8125
+  brandColors:
+    - '#000000'
+    - '#bbac92'
+    - '#605743'
+    - '#f0eeea'
+    - '#2d415f'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-37507409-4
   facebook: null
-  twitter: null
+name: Visions from Asheville
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#a7a7b5'
-    - '#6b340d'
-    - '#000000'
-    - '#e3d2d2'
-    - '#e0bb1c'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.1394
+layout_spectrum: 0.48849
