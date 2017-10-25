@@ -1,8 +1,54 @@
+layout_spectrum: 0.6905976086445521
+typography_spectrum: 0.42170548020696064
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.6914517893300087
+  lightness: 0.023559544493471928
+  saturation: 0.28603591306088955
+  rhythmicContrast: 0.22504222431330767
+opengraph:
+  image: null
+  type: null
+  appId: null
+analytics:
+  google: UA-37507409-4
+  facebook: null
+  twitter: 'https://twitter.com/avlvisions'
+author:
+  url: 'https://thegrid.ai/asheville-visions'
+  name: Robert M. Young
+  email: rmymd@icloud.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2296425-1988-4f48-91b2-9374b49754ba.png
 name: Visions from Asheville
-favicon: null
-layout_spectrum: 0.48849
-typography_spectrum: 0.15043
-title: Visions from Asheville
+url: 'https://thegrid.ai/asheville-visions'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Biltmore Estate
+    id: 6f514bcd-4a3d-4bda-95c0-609ffb66aedb
+    type: content
+  - name: Country Churches of the Blue Ridge
+    id: 982827a9-55d7-481b-8a39-9b4427e24580
+    type: content
+  - name: 'Downtown Asheville, NC'
+    id: 2365299c-8f22-40ad-9637-f8d640656d70
+    type: content
+  - name: North Carolina Arboretum
+    id: 6a4d4260-927d-4469-bd03-0dca1b45a782
+    type: content
+  - name: Sunrises & Sunsets
+    id: e0b3161c-5df5-40f6-a8e9-4d42ea38f7c0
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/25cd38df-525e-467f-a28d-e001d69b3f0f.jpg
 collections:
   - index:
       path: /
@@ -15,27 +61,35 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-37507409-4
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#031d26'
-    - '#414135'
-    - '#6595c3'
-    - '#c8af9f'
-    - '#3771b7'
-  brandStrength: 1
-  lightness: 0.8125
-  saturation: 0.5252951
-  rhythmicContrast: 0
-purpose: []
+title: Visions from Asheville
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5532a3-ff62-4737-9949-73c8b58790c0.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2c5532a3-ff62-4737-9949-73c8b58790c0.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'Visions, Thoughts, Ramblings & Musings from Western North Carolina'
+purpose:
+  - type: contact
+    url: 'mailto:rmymd@icloud.com'
+    label: Contact Asheville Visions Photography
+github: true
